@@ -7,6 +7,7 @@ check. CORS is enabled for all origins so the React frontend (running on a
 different port/domain) can call this freely.
 """
 
+import utils.session
 import os
 import json
 import pickle
