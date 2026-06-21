@@ -1,0 +1,693 @@
+{
+  "total_test_images": 818,
+  "top1_accuracy": 97.79951100244499,
+  "top5_accuracy": 99.51100244498778,
+  "per_class_accuracy": {
+    "1": {
+      "name": "Pink Primrose",
+      "accuracy": 100.0,
+      "total": 8,
+      "correct": 8
+    },
+    "10": {
+      "name": "Globe Thistle",
+      "accuracy": 100.0,
+      "total": 4,
+      "correct": 4
+    },
+    "100": {
+      "name": "Blanket Flower",
+      "accuracy": 100.0,
+      "total": 6,
+      "correct": 6
+    },
+    "101": {
+      "name": "Trumpet Creeper",
+      "accuracy": 100.0,
+      "total": 5,
+      "correct": 5
+    },
+    "102": {
+      "name": "Blackberry Lily",
+      "accuracy": 100.0,
+      "total": 6,
+      "correct": 6
+    },
+    "11": {
+      "name": "Snapdragon",
+      "accuracy": 90.0,
+      "total": 10,
+      "correct": 9
+    },
+    "12": {
+      "name": "Colt'S Foot",
+      "accuracy": 100.0,
+      "total": 5,
+      "correct": 5
+    },
+    "13": {
+      "name": "King Protea",
+      "accuracy": 100.0,
+      "total": 5,
+      "correct": 5
+    },
+    "14": {
+      "name": "Spear Thistle",
+      "accuracy": 100.0,
+      "total": 1,
+      "correct": 1
+    },
+    "15": {
+      "name": "Yellow Iris",
+      "accuracy": 100.0,
+      "total": 7,
+      "correct": 7
+    },
+    "16": {
+      "name": "Globe-Flower",
+      "accuracy": 100.0,
+      "total": 2,
+      "correct": 2
+    },
+    "17": {
+      "name": "Purple Coneflower",
+      "accuracy": 100.0,
+      "total": 16,
+      "correct": 16
+    },
+    "18": {
+      "name": "Peruvian Lily",
+      "accuracy": 100.0,
+      "total": 11,
+      "correct": 11
+    },
+    "19": {
+      "name": "Balloon Flower",
+      "accuracy": 75.0,
+      "total": 4,
+      "correct": 3
+    },
+    "2": {
+      "name": "Hard-Leaved Pocket Orchid",
+      "accuracy": 100.0,
+      "total": 6,
+      "correct": 6
+    },
+    "20": {
+      "name": "Giant White Arum Lily",
+      "accuracy": 100.0,
+      "total": 7,
+      "correct": 7
+    },
+    "21": {
+      "name": "Fire Lily",
+      "accuracy": 100.0,
+      "total": 4,
+      "correct": 4
+    },
+    "22": {
+      "name": "Pincushion Flower",
+      "accuracy": 100.0,
+      "total": 8,
+      "correct": 8
+    },
+    "23": {
+      "name": "Fritillary",
+      "accuracy": 100.0,
+      "total": 12,
+      "correct": 12
+    },
+    "24": {
+      "name": "Red Ginger",
+      "accuracy": 100.0,
+      "total": 5,
+      "correct": 5
+    },
+    "25": {
+      "name": "Grape Hyacinth",
+      "accuracy": 100.0,
+      "total": 2,
+      "correct": 2
+    },
+    "26": {
+      "name": "Corn Poppy",
+      "accuracy": 100.0,
+      "total": 3,
+      "correct": 3
+    },
+    "27": {
+      "name": "Prince Of Wales Feathers",
+      "accuracy": 100.0,
+      "total": 1,
+      "correct": 1
+    },
+    "28": {
+      "name": "Stemless Gentian",
+      "accuracy": 100.0,
+      "total": 5,
+      "correct": 5
+    },
+    "29": {
+      "name": "Artichoke",
+      "accuracy": 100.0,
+      "total": 7,
+      "correct": 7
+    },
+    "3": {
+      "name": "Canterbury Bells",
+      "accuracy": 100.0,
+      "total": 2,
+      "correct": 2
+    },
+    "30": {
+      "name": "Sweet William",
+      "accuracy": 90.0,
+      "total": 10,
+      "correct": 9
+    },
+    "31": {
+      "name": "Carnation",
+      "accuracy": 100.0,
+      "total": 2,
+      "correct": 2
+    },
+    "32": {
+      "name": "Garden Phlox",
+      "accuracy": 100.0,
+      "total": 3,
+      "correct": 3
+    },
+    "33": {
+      "name": "Love In The Mist",
+      "accuracy": 100.0,
+      "total": 7,
+      "correct": 7
+    },
+    "34": {
+      "name": "Mexican Aster",
+      "accuracy": 100.0,
+      "total": 7,
+      "correct": 7
+    },
+    "35": {
+      "name": "Alpine Sea Holly",
+      "accuracy": 100.0,
+      "total": 4,
+      "correct": 4
+    },
+    "36": {
+      "name": "Ruby-Lipped Cattleya",
+      "accuracy": 83.33333333333333,
+      "total": 6,
+      "correct": 5
+    },
+    "37": {
+      "name": "Cape Flower",
+      "accuracy": 100.0,
+      "total": 8,
+      "correct": 8
+    },
+    "38": {
+      "name": "Great Masterwort",
+      "accuracy": 100.0,
+      "total": 4,
+      "correct": 4
+    },
+    "39": {
+      "name": "Siam Tulip",
+      "accuracy": 100.0,
+      "total": 3,
+      "correct": 3
+    },
+    "4": {
+      "name": "Sweet Pea",
+      "accuracy": 66.66666666666667,
+      "total": 6,
+      "correct": 4
+    },
+    "40": {
+      "name": "Lenten Rose",
+      "accuracy": 100.0,
+      "total": 5,
+      "correct": 5
+    },
+    "41": {
+      "name": "Barbeton Daisy",
+      "accuracy": 100.0,
+      "total": 16,
+      "correct": 16
+    },
+    "42": {
+      "name": "Daffodil",
+      "accuracy": 83.33333333333333,
+      "total": 6,
+      "correct": 5
+    },
+    "43": {
+      "name": "Sword Lily",
+      "accuracy": 78.57142857142857,
+      "total": 14,
+      "correct": 11
+    },
+    "44": {
+      "name": "Poinsettia",
+      "accuracy": 100.0,
+      "total": 9,
+      "correct": 9
+    },
+    "45": {
+      "name": "Bolero Deep Blue",
+      "accuracy": 100.0,
+      "total": 4,
+      "correct": 4
+    },
+    "46": {
+      "name": "Wallflower",
+      "accuracy": 100.0,
+      "total": 18,
+      "correct": 18
+    },
+    "47": {
+      "name": "Marigold",
+      "accuracy": 100.0,
+      "total": 3,
+      "correct": 3
+    },
+    "48": {
+      "name": "Buttercup",
+      "accuracy": 88.88888888888889,
+      "total": 9,
+      "correct": 8
+    },
+    "49": {
+      "name": "Oxeye Daisy",
+      "accuracy": 100.0,
+      "total": 8,
+      "correct": 8
+    },
+    "5": {
+      "name": "English Marigold",
+      "accuracy": 85.71428571428571,
+      "total": 7,
+      "correct": 6
+    },
+    "50": {
+      "name": "Common Dandelion",
+      "accuracy": 100.0,
+      "total": 11,
+      "correct": 11
+    },
+    "51": {
+      "name": "Petunia",
+      "accuracy": 96.42857142857143,
+      "total": 28,
+      "correct": 27
+    },
+    "52": {
+      "name": "Wild Pansy",
+      "accuracy": 100.0,
+      "total": 10,
+      "correct": 10
+    },
+    "53": {
+      "name": "Primula",
+      "accuracy": 88.88888888888889,
+      "total": 9,
+      "correct": 8
+    },
+    "54": {
+      "name": "Sunflower",
+      "accuracy": 100.0,
+      "total": 10,
+      "correct": 10
+    },
+    "55": {
+      "name": "Pelargonium",
+      "accuracy": 100.0,
+      "total": 8,
+      "correct": 8
+    },
+    "56": {
+      "name": "Bishop Of Llandaff",
+      "accuracy": 100.0,
+      "total": 9,
+      "correct": 9
+    },
+    "57": {
+      "name": "Gaura",
+      "accuracy": 100.0,
+      "total": 6,
+      "correct": 6
+    },
+    "58": {
+      "name": "Geranium",
+      "accuracy": 100.0,
+      "total": 14,
+      "correct": 14
+    },
+    "59": {
+      "name": "Orange Dahlia",
+      "accuracy": 100.0,
+      "total": 4,
+      "correct": 4
+    },
+    "6": {
+      "name": "Tiger Lily",
+      "accuracy": 100.0,
+      "total": 1,
+      "correct": 1
+    },
+    "60": {
+      "name": "Pink-Yellow Dahlia",
+      "accuracy": 100.0,
+      "total": 14,
+      "correct": 14
+    },
+    "61": {
+      "name": "Cautleya Spicata",
+      "accuracy": 100.0,
+      "total": 6,
+      "correct": 6
+    },
+    "62": {
+      "name": "Japanese Anemone",
+      "accuracy": 100.0,
+      "total": 3,
+      "correct": 3
+    },
+    "63": {
+      "name": "Black-Eyed Susan",
+      "accuracy": 100.0,
+      "total": 8,
+      "correct": 8
+    },
+    "64": {
+      "name": "Silverbush",
+      "accuracy": 100.0,
+      "total": 5,
+      "correct": 5
+    },
+    "65": {
+      "name": "Californian Poppy",
+      "accuracy": 100.0,
+      "total": 7,
+      "correct": 7
+    },
+    "66": {
+      "name": "Osteospermum",
+      "accuracy": 100.0,
+      "total": 6,
+      "correct": 6
+    },
+    "67": {
+      "name": "Spring Crocus",
+      "accuracy": 100.0,
+      "total": 2,
+      "correct": 2
+    },
+    "68": {
+      "name": "Bearded Iris",
+      "accuracy": 100.0,
+      "total": 8,
+      "correct": 8
+    },
+    "69": {
+      "name": "Windflower",
+      "accuracy": 100.0,
+      "total": 5,
+      "correct": 5
+    },
+    "7": {
+      "name": "Moon Orchid",
+      "accuracy": 100.0,
+      "total": 1,
+      "correct": 1
+    },
+    "70": {
+      "name": "Tree Poppy",
+      "accuracy": 100.0,
+      "total": 7,
+      "correct": 7
+    },
+    "71": {
+      "name": "Gazania",
+      "accuracy": 100.0,
+      "total": 5,
+      "correct": 5
+    },
+    "72": {
+      "name": "Azalea",
+      "accuracy": 100.0,
+      "total": 8,
+      "correct": 8
+    },
+    "73": {
+      "name": "Water Lily",
+      "accuracy": 100.0,
+      "total": 19,
+      "correct": 19
+    },
+    "74": {
+      "name": "Rose",
+      "accuracy": 100.0,
+      "total": 15,
+      "correct": 15
+    },
+    "75": {
+      "name": "Thorn Apple",
+      "accuracy": 100.0,
+      "total": 12,
+      "correct": 12
+    },
+    "76": {
+      "name": "Morning Glory",
+      "accuracy": 100.0,
+      "total": 20,
+      "correct": 20
+    },
+    "77": {
+      "name": "Passion Flower",
+      "accuracy": 100.0,
+      "total": 21,
+      "correct": 21
+    },
+    "78": {
+      "name": "Lotus",
+      "accuracy": 100.0,
+      "total": 11,
+      "correct": 11
+    },
+    "79": {
+      "name": "Toad Lily",
+      "accuracy": 100.0,
+      "total": 4,
+      "correct": 4
+    },
+    "8": {
+      "name": "Bird Of Paradise",
+      "accuracy": 100.0,
+      "total": 5,
+      "correct": 5
+    },
+    "80": {
+      "name": "Anthurium",
+      "accuracy": 100.0,
+      "total": 12,
+      "correct": 12
+    },
+    "81": {
+      "name": "Frangipani",
+      "accuracy": 100.0,
+      "total": 18,
+      "correct": 18
+    },
+    "82": {
+      "name": "Clematis",
+      "accuracy": 100.0,
+      "total": 13,
+      "correct": 13
+    },
+    "83": {
+      "name": "Hibiscus",
+      "accuracy": 92.3076923076923,
+      "total": 13,
+      "correct": 12
+    },
+    "84": {
+      "name": "Columbine",
+      "accuracy": 100.0,
+      "total": 10,
+      "correct": 10
+    },
+    "85": {
+      "name": "Desert-Rose",
+      "accuracy": 100.0,
+      "total": 5,
+      "correct": 5
+    },
+    "86": {
+      "name": "Tree Mallow",
+      "accuracy": 100.0,
+      "total": 5,
+      "correct": 5
+    },
+    "87": {
+      "name": "Magnolia",
+      "accuracy": 100.0,
+      "total": 6,
+      "correct": 6
+    },
+    "88": {
+      "name": "Cyclamen",
+      "accuracy": 100.0,
+      "total": 25,
+      "correct": 25
+    },
+    "89": {
+      "name": "Watercress",
+      "accuracy": 100.0,
+      "total": 16,
+      "correct": 16
+    },
+    "9": {
+      "name": "Monkshood",
+      "accuracy": 100.0,
+      "total": 3,
+      "correct": 3
+    },
+    "90": {
+      "name": "Canna Lily",
+      "accuracy": 100.0,
+      "total": 2,
+      "correct": 2
+    },
+    "91": {
+      "name": "Hippeastrum",
+      "accuracy": 100.0,
+      "total": 9,
+      "correct": 9
+    },
+    "92": {
+      "name": "Bee Balm",
+      "accuracy": 100.0,
+      "total": 2,
+      "correct": 2
+    },
+    "93": {
+      "name": "Ball Moss",
+      "accuracy": 83.33333333333333,
+      "total": 6,
+      "correct": 5
+    },
+    "94": {
+      "name": "Foxglove",
+      "accuracy": 100.0,
+      "total": 14,
+      "correct": 14
+    },
+    "95": {
+      "name": "Bougainvillea",
+      "accuracy": 100.0,
+      "total": 13,
+      "correct": 13
+    },
+    "96": {
+      "name": "Camellia",
+      "accuracy": 80.0,
+      "total": 10,
+      "correct": 8
+    },
+    "97": {
+      "name": "Mallow",
+      "accuracy": 100.0,
+      "total": 7,
+      "correct": 7
+    },
+    "98": {
+      "name": "Mexican Petunia",
+      "accuracy": 100.0,
+      "total": 10,
+      "correct": 10
+    },
+    "99": {
+      "name": "Bromelia",
+      "accuracy": 100.0,
+      "total": 6,
+      "correct": 6
+    }
+  },
+  "best5": [
+    {
+      "class": "99",
+      "name": "Bromelia",
+      "accuracy": 100.0,
+      "total": 6,
+      "correct": 6
+    },
+    {
+      "class": "98",
+      "name": "Mexican Petunia",
+      "accuracy": 100.0,
+      "total": 10,
+      "correct": 10
+    },
+    {
+      "class": "97",
+      "name": "Mallow",
+      "accuracy": 100.0,
+      "total": 7,
+      "correct": 7
+    },
+    {
+      "class": "95",
+      "name": "Bougainvillea",
+      "accuracy": 100.0,
+      "total": 13,
+      "correct": 13
+    },
+    {
+      "class": "94",
+      "name": "Foxglove",
+      "accuracy": 100.0,
+      "total": 14,
+      "correct": 14
+    }
+  ],
+  "worst5": [
+    {
+      "class": "4",
+      "name": "Sweet Pea",
+      "accuracy": 66.66666666666667,
+      "total": 6,
+      "correct": 4
+    },
+    {
+      "class": "19",
+      "name": "Balloon Flower",
+      "accuracy": 75.0,
+      "total": 4,
+      "correct": 3
+    },
+    {
+      "class": "43",
+      "name": "Sword Lily",
+      "accuracy": 78.57142857142857,
+      "total": 14,
+      "correct": 11
+    },
+    {
+      "class": "96",
+      "name": "Camellia",
+      "accuracy": 80.0,
+      "total": 10,
+      "correct": 8
+    },
+    {
+      "class": "36",
+      "name": "Ruby-Lipped Cattleya",
+      "accuracy": 83.33333333333333,
+      "total": 6,
+      "correct": 5
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+# Install torch/torchvision FIRST from the CUDA 13.0 index (matches the
+# RTX 5060's Blackwell architecture + driver-reported CUDA 13.1):
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cu130
+# Then install everything else below normally:
+#   pip install -r requirements.txt
+#
+# NOTE: torch==2.3.1 / torchvision==0.18.1 (the originally planned pins) do
+# NOT work on this machine - no cp314 wheel exists for them, and they predate
+# Blackwell GPU support entirely. Versions below are what was verified
+# working on Python 3.14.6 + RTX 5060 Laptop GPU on 2026-06-16.
+
+torch==2.12.0+cu130
+torchvision==0.27.0+cu130
+fastapi==0.137.1
+uvicorn==0.49.0
+python-multipart==0.0.32
+Pillow==12.2.0
+numpy==2.4.4
+scikit-learn==1.9.0
+pandas==3.0.3
+matplotlib==3.11.0
+tqdm==4.68.2
